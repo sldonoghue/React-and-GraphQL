@@ -1,8 +1,8 @@
 {
-  "name": "sick-fits-backend",
+  "name": "mock-shop-backend",
   "version": "2.0.0",
   "private": true,
-  "author": "Wes Bos",
+  "author": "Sarah Donoghue",
   "license": "MIT",
   "scripts": {
     "dev": "keystone-next",
